@@ -47,7 +47,7 @@
 
 </p>
 <p align="left">
-<img src="https://github.com/ByMaglite" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github.com/ByMaglite" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github.com/ByMaglite" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=byMaglite&theme=buefy " alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=byMaglite&theme=buefy&" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byMaglite&theme=buefy &layout=compact" alt="languages" width="50%" > </p>
 
