@@ -1,4 +1,4 @@
-## Hi there. I'm John...👋
+## Hi there. I'm John Maglite...👋
 
 
 - 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
@@ -47,7 +47,7 @@
 
 </p>
 <p align="left">
-<img src="https://github.com/ByMaglite/John-main" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github.com/ByMaglite/John-main" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github.com/ByMaglite/John-main" alt="languages" width="50%" > </p>
+<img src="https://github.com/ByMaglite" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github.com/ByMaglite" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github.com/ByMaglite" alt="languages" width="50%" > </p>
 
